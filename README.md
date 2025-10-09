@@ -14,10 +14,9 @@
 - Defini as cores de cada parte com backgroundColor.
 - Ajustei o alinhamento: justifyContent para vertical e alignItems para horizontal.
  
-<details>![WhatsApp Image 2025-10-09 at 12 32 31](https://github.com/user-attachments/assets/30de621c-039a-4f2b-a80a-9c6cd7f8976c)
 
   <summary>Login Screen</summary>
-  <img src="https://github.com/user-attachments/assets/ef8dd497-cf56-4a6f-96d9-e91d70fa6ff6" width="600" />
+  <img src="https://github.com/user-attachments/assets/30de621c-039a-4f2b-a80a-9c6cd7f8976c" width="600" />
 </details>
 
 # COMO INICIAR UM PROJETO
